@@ -1,8 +1,8 @@
 package main
 
-//"goexample/channels"
-//"goexample/goroutines"
-
+// "goexample/interfaces"
+// "goexample/channels"
+// "goexample/goroutines"
 // "fmt"
 // "goexample/goroutines"
 // "time"
@@ -66,4 +66,6 @@ func main()  {
 	//ciftSayiToplam , TekSayiToplam := <- CiftSayiCn , <- TekSayiCn
 	//carpim := ciftSayiToplam * TekSayiToplam
 	//fmt.Println("Carpim : ",carpim)
+	//interfaces.Demo1()
+	//interfaces.Demo2()
 }
