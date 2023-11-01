@@ -1,9 +1,13 @@
 package main
 
+import "goexample/string_functions"
+
+// "fmt"
+// "goexample/error_handling"
+// "goexample/defer_statement"
 // "goexample/interfaces"
 // "goexample/channels"
 // "goexample/goroutines"
-// "fmt"
 // "goexample/goroutines"
 // "time"
 // "goexample/structs"
@@ -68,4 +72,12 @@ func main()  {
 	//fmt.Println("Carpim : ",carpim)
 	//interfaces.Demo1()
 	//interfaces.Demo2()
+	//deferstatement.Test()
+	//deferstatement.Demo3()
+	//error_handling.Demo1()
+	//interfaces.Demo3()
+	//error_handling.Demo2()
+	//fmt.Println(error_handling.TahminEt2(750))
+	//string_functions.Demo1()
+	string_functions.Demo2()
 }
